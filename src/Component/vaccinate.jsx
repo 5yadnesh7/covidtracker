@@ -121,6 +121,7 @@ function Vaccinate(props) {
                 pagesAmount={5} 
                 data={cdatass}
                 paging={true}
+                style={{background:"#e1f8dc"}}
             />
             </div>
             <AdSense.Google
