@@ -148,6 +148,7 @@ function India(props) {
                 pagesAmount={5} 
                 data={sdatass}
                 paging={true}
+                style={{background:"#e1f8dc"}}
             />
             </div>
             <div className="btn-success"><h2>India Time Wise</h2></div>
@@ -162,6 +163,7 @@ function India(props) {
                 pagesAmount={5} 
                 data={tdatass}
                 paging={true}
+                style={{background:"#e1f8dc"}}
             />
             </div>
             <AdSense.Google
