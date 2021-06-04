@@ -129,6 +129,7 @@ function India(props) {
         <div className="imgbg">
             <Header india="active" />
             <center>
+<div id="container-f7cc02fcab790805fe7ed8a9aba680ef"></div>
             <div className="rowhome">
                 <div className="columnhome" id="homeactive"><h3>Active : {total.active}</h3></div>
                 <div className="columnhome" id="homeconfirmed"><h3>Confirmed : {total.confirmed}</h3></div>
