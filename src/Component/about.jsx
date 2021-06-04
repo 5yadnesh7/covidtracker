@@ -8,6 +8,8 @@ function about(props) {
         <div className="imgbg">
             <Header about="active" /><br />
             <center>
+        
+<div id="container-f7cc02fcab790805fe7ed8a9aba680ef"></div>
                 <img src={own} alt="own" className="ownimg" /><br />
                 <h2 className="font">Full Stack Developer</h2>
                 <table className="font" cellPadding="7">
