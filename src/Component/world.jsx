@@ -71,6 +71,7 @@ function World(props) {
         <div className="imgbg">
             <Header world="active" />
             <center>
+<div id="container-f7cc02fcab790805fe7ed8a9aba680ef"></div>
             <div className="btn-success"><h2>World Country Wise</h2></div>
             <div className="indiatable1">
             <MDBDataTable
