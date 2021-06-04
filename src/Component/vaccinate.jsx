@@ -71,6 +71,7 @@ function Vaccinate(props) {
         <div className="imgbg">
             <Header vacine="active" />
             <center>
+<div id="container-f7cc02fcab790805fe7ed8a9aba680ef"></div>
             <div className="btn-success"><h2>Record of Registration</h2></div>
             <div className="rowhome">
                 <div className="columnhome columnvaccinate"><h4>Register by 18-45 age : {rdata.cit_18_45}</h4></div>
