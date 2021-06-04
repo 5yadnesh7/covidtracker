@@ -12,6 +12,7 @@ function api(props) {
         <div className="imgbg">
             <Header api="active" />
             <center>
+<div id="container-f7cc02fcab790805fe7ed8a9aba680ef"></div>
                 <h1 className="font">Welcome to Covid Tracker</h1><br/><br/>
             </center>
             <div id="apidivleftmag">
